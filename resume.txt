@@ -19,3 +19,6 @@ Database: FireBird, PostgreSQL.
 2009-2011 Network Engineer/Leading network engineer in Vympelcom (ISP). Responsibilities: network maintenance, projecting, hardware installation and configuration (Cisco,D-Link, APC,HP servers), network monitoring (Nagios,Zabbix),linux (at system administrator level). During that time I developed some ruby and python scripts for managing and monitoring devices over snmp and new devices configuration. Using external geocoding data,google maps, tomcat and java I have developed simple map for hardware with notes.
 
 Different distribution of linux (Ubuntu,Debian) were my primary OSes during these years. I am quite experienced in console.
+
+Machine Learning Certificate'2013 from Coursera.org
+Algorithms: Designs and Analysis. Certificate'2013 from Coursera.org
