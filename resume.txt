@@ -20,5 +20,6 @@ Database: FireBird, PostgreSQL.
 
 Different distribution of linux (Ubuntu,Debian) were my primary OSes during these years. I am quite experienced in console.
 
-Machine Learning Certificate'2013 from Coursera.org
-Algorithms: Designs and Analysis. Certificate'2013 from Coursera.org
+Machine Learning. Certificate'2013 from Coursera.org
+Algorithms: Designs and Analysis (Parts I and II). Certificate'2013 from Coursera.org
+Functional Programming Principles in Scala. Certificate' 2013 from Coursera.org
