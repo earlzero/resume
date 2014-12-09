@@ -6,20 +6,39 @@ e-mail: earlzero@gmail.com
 
 Work Experience.
 
-2012-present. Software Developer at Yandex. I have joined development team of traffic-forecasting project for advertising platform (ETL-modifications, activemq-based mechanism for state transfer  - support of multi-master, refactoring legacy code). Started development of RTB-based forecasting platform (as a part of the team). I have worked on some aspects of architecture of multi-master (activemq, zookeeper, RMI), maintaining installation system (based on deb-packages), maven configuration (build system is complicated due to environment requirements), system optimization, Vaadin-based gui, ETL and porting some legacy modules. I have done a research on forecasting winning bids for RTB-platform (Real-Time Bidding).
-Most recents tasks include big data processing on proprietary map-reduce framework and machine learning (with scikit-lean, vowpal wabbit).
+2012-present. Software Developer at Yandex. I have joined development team of 
+traffic-forecasting project for advertising platform (ETL-modifications, activemq-based 
+mechanism for state transfer  - support of multi-master, refactoring legacy code). 
+Started development of RTB-based forecasting platform (as a part of the team). I have 
+worked on some aspects of architecture of multi-master (activemq, zookeeper, RMI), 
+maintaining installation system (based on deb-packages), maven configuration (build 
+system is complicated due to environment requirements), system optimization, 
+Vaadin-based gui, ETL and porting some legacy modules. I have done a research on 
+forecasting winning bids for RTB-platform (Real-Time Bidding).
+Most recents tasks include big data processing on proprietary map-reduce framework and 
+machine learning (with scikit-lean, vowpal wabbit).
 Languages: Java, SQL, bourne shell. 
-Libraries and technologies: Spring,JMS (ActiveMQ), ETL (Talend), Octave,NIO,Fork/Join framework,Hibernate, Vert.x. 
+Libraries and technologies: Spring,JMS (ActiveMQ), ETL (Talend), Octave,NIO,Fork/Join 
+framework,Hibernate, Vert.x. 
 Database: MySQL, MS SQL, Cassandra, MongoDB. 
 
-2011-2012 Software Developer at Yuterra (Retail network). Continued development of linux-based cash register application, receipt transport. Developed PostreSQL-based sharing for receipt storage.
+2011-2012 Software Developer at Yuterra (Retail network). Continued development of 
+linux-based cash register application, receipt transport. Developed PostreSQL-based 
+sharing for receipt storage.
 Languages: Java, BeanShell, Groovy, SQL (FireBird and PostreSQL)
-Libraries and Techologies: Charva (Swing-like console gui framework), RXTX (access to RS-232 from java), JPA, JSP,PrimeFaces, servlets, GWT, ant, EclipseLink.
+Libraries and Techologies: Charva (Swing-like console gui framework), RXTX (access to 
+RS-232 from java), JPA, JSP,PrimeFaces, servlets, GWT, ant, EclipseLink.
 Database: FireBird, PostgreSQL.
 
-2009-2011 Network Engineer/Leading network engineer in Vympelcom (ISP). Responsibilities: network maintenance, projecting, hardware installation and configuration (Cisco,D-Link, APC,HP servers), network monitoring (Nagios,Zabbix),linux (at system administrator level). During that time I developed some ruby and python scripts for managing and monitoring devices over snmp and new devices configuration. Using external geocoding data,google maps, tomcat and java I have developed simple map for hardware with notes.
+2009-2011 Network Engineer/Leading network engineer in Vympelcom (ISP). Responsibilities:
+ network maintenance, projecting, hardware installation and configuration (Cisco,D-Link, 
+APC,HP servers), network monitoring (Nagios,Zabbix),linux (at system administrator level). 
+During that time I developed some ruby and python scripts for managing and monitoring 
+devices over snmp and new devices configuration. Using external geocoding data,google 
+maps, tomcat and java I have developed simple map for hardware with notes.
 
-Different distribution of linux (Ubuntu,Debian) were my primary OSes during these years. I am quite experienced in console.
+Different distribution of linux (Ubuntu,Debian) were my primary OSes during these years. 
+I am quite experienced in console.
 
 Machine Learning. Certificate'2013 from Coursera.org
 Algorithms: Designs and Analysis (Parts I and II). Certificate'2013 from Coursera.org
