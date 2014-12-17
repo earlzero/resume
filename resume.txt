@@ -1,6 +1,6 @@
 Nikita Sapozhnikov
 
-Skills: Java, SQL, Linux, probability theory, machine learning.
+Skills: Java, Python, SQL, Linux, probability theory, machine learning.
 Date of birth: 9 March 1987
 e-mail: earlzero@gmail.com
 
@@ -15,11 +15,12 @@ maintaining installation system (based on deb-packages), maven configuration (bu
 system is complicated due to environment requirements), system optimization, 
 Vaadin-based gui, ETL and porting some legacy modules. I have done a research on 
 forecasting winning bids for RTB-platform (Real-Time Bidding).
+Next project was RTB-host proxy for mobile advertising (vert.x-based). 
 Most recents tasks include big data processing on proprietary map-reduce framework and 
 machine learning (with scikit-lean, vowpal wabbit).
-Languages: Java, SQL, bourne shell. 
-Libraries and technologies: Spring,JMS (ActiveMQ), ETL (Talend), Octave,NIO,Fork/Join 
-framework,Hibernate, Vert.x. 
+Languages: Java, Python, SQL, bourne shell. 
+Libraries and technologies: Spring,JMS (ActiveMQ), ETL (Talend), Octave,NIO, Fork/Join 
+framework, Hibernate, Vert.x. 
 Database: MySQL, MS SQL, Cassandra, MongoDB. 
 
 2011-2012 Software Developer at Yuterra (Retail network). Continued development of 
