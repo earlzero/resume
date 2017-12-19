@@ -6,9 +6,15 @@ e-mail: earlzero@gmail.com
 
 Work Experience.
 
-2015-2017 Software Engineer II at AOL/Oath. I've been working on forecasting platform
-for ONE DSP. I've been solving problems on different parts of the system starting from
-implementing new algorithms, scaling issues to CICD and encryption (SSL). 
+2015-2017 Software Engineer II at AOL/Oath. I've been working on two demand forecasting platforms
+ONE DSP and BrightRoll DSP. On ONE DSP I've been solving the problems on different parts of the system starting from
+implementing new algorithms, solving the scaling issues to CICD and encryption (SSL). I've participated in the migration of this platform from AOL Data Centers to AWS. Results of this migration were presented by me at TechPulse in Sunnyvale at December'2017.
+
+On BrightRoll DSP I did the assesment of the system. Later I was solving scaling issues and modified the ETL pipeline written in Oozie/Pig.
+
+During my time at AOL/Oath I got extended experience of interacting with remote teams. For example, we had 5 hours difference with ops team and 8 hours difference with the data science team.
+
+Technologies used: Java, Gradle, Jenkins, Pig, Spark, Python.
 
 2012-2015. Software Developer at Yandex. I joined development team of 
 traffic-forecasting project for an advertising platform (ETL-modifications, activemq-based 
